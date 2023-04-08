@@ -1,0 +1,24 @@
+.tadah-colors {
+  display: flex;
+  width: 100%;
+}
+.tadah-colors .line-colors {
+  display: flex;
+  width: 100%;
+}
+.tadah-colors .yellow, .tadah-colors .red, .tadah-colors .blue, .tadah-colors .orange {
+  width: 25%;
+  height: 12.5px;
+}
+.tadah-colors .yellow {
+  background: #F7D633;
+}
+.tadah-colors .red {
+  background: #E12843;
+}
+.tadah-colors .blue {
+  background: #72CEE8;
+}
+.tadah-colors .orange {
+  background: #F47D34;
+}/*# sourceMappingURL=header.css.map */

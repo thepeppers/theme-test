@@ -1,0 +1,24 @@
+.tadah-colors {
+    display: flex;
+    width: 100%;
+    .line-colors {
+        display: flex;
+        width: 100%;
+    }
+    .yellow, .red, .blue, .orange {
+        width: 25%;
+        height: 12.5px;
+    }
+    .yellow {
+        background: #F7D633;
+    }
+    .red {
+        background: #E12843;
+    }
+    .blue {
+        background: #72CEE8;
+    }
+    .orange {
+        background: #F47D34;
+    }
+}
